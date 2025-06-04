@@ -30,24 +30,6 @@ This repository contains my **daily coding challenge solutions** written in **C+
 
 ---
 
-## 📂 Folder Structure
-
-DailyCodingChallenges/
-├── Day01_SnakePatternMatrix/
-│ ├── snake_pattern.cpp
-│ └── README.md
-├── Day02_TwoSumProblem/
-│ ├── two_sum.cpp
-│ └── README.md
-├── DayXX_ProblemName/
-│ ├── solution.cpp
-│ └── README.md
-...
-
-yaml
-Copy
-Edit
-
 Each folder includes:
 - ✅ The C++ solution file
 - 📘 A detailed README with problem statement, constraints, approach, and examples
